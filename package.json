@@ -1,0 +1,22 @@
+{
+  "name": "super-meat-sheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marengohue/super-meat-sheet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marengohue/super-meat-sheet/issues"
+  },
+  "homepage": "https://github.com/marengohue/super-meat-sheet#readme",
+  "dependencies": {
+    "googleapis": "^27.0.0"
+  }
+}
